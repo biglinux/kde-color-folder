@@ -1,4 +1,4 @@
+45d8766bcaa4226754ba573fd06cdad0  DEBIAN/control
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
-f9ddf5995f0a5837c1ec408f4187b1d0  DEBIAN/control
-1010ad5064c3ff77368b8e36e636b5de  usr/share/kservices5/ServiceMenus/colorfolder-breeze.desktop
 6fa4c59777e494ad571a6ec3006f5dcf  usr/bin/colorfolder.sh
+e72c48b0d1ad6908d056b0c425f04086  usr/share/kservices5/ServiceMenus/colorfolder-breeze.desktop
