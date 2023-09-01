@@ -85,3 +85,8 @@ for SPLINTER in $@; do
 
 done
 
+
+# 2023 Rafael Ruscher - rruscher@gmail.com
+# Refresh
+# from https://github.com/c-hartmann/refresh-view-f5-dbus/tree/main
+for sname in $( qdbus --session "org.kde.dolphin-*" ) ; do isactive=false ; isactive=$( qdbus "$sname" "/dolphin/Dolphin_1" "org.qtproject.Qt.QWidget.isActiveWindow" ) ; $isactive && qdbus "$sname" "/dolphin/Dolphin_1/actions/view_redisplay"  "org.qtproject.Qt.QAction.trigger" ; done

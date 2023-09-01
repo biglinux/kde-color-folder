@@ -40,7 +40,7 @@ Name[sr@ijekavian]=Црвена
 Name[sr@ijekavianlatin]=Crvena
 Name[pt]=Vermelho
 
-Icon=/usr/share/icons/breeze-dark/places/32/folder-red.svg
+Icon=folder-red
 Exec=colorfolder.sh folder-red %F/.directory
 
 [Desktop Action ColorOrange]
@@ -60,7 +60,7 @@ Name[sr]=Наранџаста
 Name[sr@latin]=Narandžasta
 Name[sr@ijekavian]=Наранџаста
 Name[sr@ijekavianlatin]=Narandžasta
-Icon=/usr/share/icons/breeze-dark/places/32/folder-orange.svg
+Icon=folder-orange
 Exec=colorfolder.sh folder-orange %F/.directory
 
 [Desktop Action ColorYellow]
@@ -80,7 +80,7 @@ Name[sr]=Жута
 Name[sr@latin]=Žuta
 Name[sr@ijekavian]=Жута
 Name[sr@ijekavianlatin]=Žuta
-Icon=/usr/share/icons/breeze-dark/places/32/folder-yellow.svg
+Icon=folder-yellow
 Exec=colorfolder.sh folder-yellow %F/.directory
 
 [Desktop Action ColorGreen]
@@ -100,7 +100,7 @@ Name[sr]=Зелена
 Name[sr@latin]=Zelena
 Name[sr@ijekavian]=Зелена
 Name[sr@ijekavianlatin]=Zelena
-Icon=/usr/share/icons/breeze-dark/places/32/folder-green.svg
+Icon=folder-green
 Exec=colorfolder.sh folder-green %F/.directory
 
 [Desktop Action ColorBlue]
@@ -120,7 +120,7 @@ Name[sr]=Плава
 Name[sr@latin]=Plava
 Name[sr@ijekavian]=Плава
 Name[sr@ijekavianlatin]=Plava
-Icon=/usr/share/icons/breeze-dark/places/32/folder-blue.svg
+Icon=folder-blue
 Exec=colorfolder.sh folder-blue %F/.directory
 
 [Desktop Action ColorViolet]
@@ -140,14 +140,14 @@ Name[sr]=Љубичаста
 Name[sr@latin]=Ljubičasta
 Name[sr@ijekavian]=Љубичаста
 Name[sr@ijekavianlatin]=Ljubičasta
-Icon=/usr/share/icons/breeze-dark/places/32/folder-violet.svg
+Icon=folder-violet
 Exec=colorfolder.sh folder-violet %F/.directory
 
 [Desktop Action ColorMagenta]
 Name=Magenta
 Name[de]=Magenta
 Name[ru]=Пурпурный
-Icon=/usr/share/icons/breeze-dark/places/32/folder-magenta.svg
+Icon=folder-magenta
 Exec=colorfolder.sh folder-magenta %F/.directory
 
 [Desktop Action ColorBrown]
@@ -159,7 +159,7 @@ Name[sr@latin]=Smeđa
 Name[sr@ijekavian]=Смеђа
 Name[sr@ijekavianlatin]=Smeđa
 Name[ru]=Коричневый
-Icon=/usr/share/icons/breeze-dark/places/32/folder-brown.svg
+Icon=folder-brown
 Exec=colorfolder.sh folder-brown %F/.directory
 
 [Desktop Action ColorCyan]
@@ -178,7 +178,7 @@ Name[sr]=Цијан
 Name[sr@latin]=Cijan
 Name[sr@ijekavian]=Цијан
 Name[sr@ijekavianlatin]=Cijan
-Icon=/usr/share/icons/breeze-dark/places/32/folder-cyan.svg
+Icon=folder-cyan
 Exec=colorfolder.sh folder-cyan %F/.directory
 
 [Desktop Action ColorGrey]
@@ -198,7 +198,7 @@ Name[sr]=Сива
 Name[sr@latin]=Siva
 Name[sr@ijekavian]=Сива
 Name[sr@ijekavianlatin]=Siva
-Icon=/usr/share/icons/breeze-dark/places/32/folder-grey.svg
+Icon=folder-grey
 Exec=colorfolder.sh folder-grey %F/.directory
 
 [Desktop Action ColorBlack]
@@ -206,7 +206,7 @@ Name=Black
 Name[de]=Schwarz
 Name[pt]=Preto
 Name[ru]=Черный
-Icon=/usr/share/icons/breeze-dark/places/32/folder-black.svg
+Icon=folder-black
 Exec=colorfolder.sh folder-black %F/.directory
 
 [Desktop Action RemoveColor]
@@ -226,6 +226,6 @@ Name[sr]=Уклони боју
 Name[sr@latin]=Ukloni boju
 Name[sr@ijekavian]=Уклони боју
 Name[sr@ijekavianlatin]=Ukloni boju
-Icon=/usr/share/icons/breeze-dark/places/32/folder.svg
+Icon=folder
 Exec=colorfolder.sh remove %F/.directory
 
